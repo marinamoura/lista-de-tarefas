@@ -1,0 +1,31 @@
+html {
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    background-color: brown;
+    border-color: black;
+    border: 3px;
+}
+
+h1 {
+    font-size: 48px;
+    color: floralwhite;
+    letter-spacing: 2px;
+    align-content: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: navajowhite;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.form {
+    margin-left: 50px;
+}
